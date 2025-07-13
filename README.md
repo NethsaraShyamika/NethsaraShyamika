@@ -66,23 +66,23 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
-<!--
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <!-- LinkedIn 
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/nethsara-shyamika-a72806370" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 
-  <!-- Facebook 
+  <!-- Facebook -->
   <a href="https://fb.com/nethsara.shyamika.3" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="Facebook" width="40" height="40"/>
   </a>
 
-  <!-- Instagram 
+  <!-- Instagram -->
   <a href="https://instagram.com/nethsara_shyamika" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
--->
+
 

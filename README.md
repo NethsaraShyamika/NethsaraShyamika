@@ -66,7 +66,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
-
+<br>
+<h3 align="center"> 🌐 Connect with Me:</h3>
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/nethsara-shyamika-a72806370" target="_blank" rel="noreferrer">

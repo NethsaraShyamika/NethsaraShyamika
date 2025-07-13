@@ -75,7 +75,7 @@
   </a>
 
   <!-- Facebook -->
-  <a href="https://fb.com/nethsara.shyamika.3" target="_blank" rel="noreferrer">
+  <a href="https://fb.com/nethsara.shyamika" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="Facebook" width="40" height="40"/>
   </a>
 

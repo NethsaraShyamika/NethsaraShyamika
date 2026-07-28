@@ -81,7 +81,9 @@ const nethsara = {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nethsarashyamika&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=nethsarashyamika&theme=dark" />
+  </a>
 </div>
 
 ---
@@ -122,5 +124,5 @@ const nethsara = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:388bfd,50:1f6feb,100:0d1117&height=120&section=footer"/>
   <br/>
-  <sub>⭐ Star my repos if you find them useful — it means a lot! | From <a href="https://github.com/nethsarashyamika">Nethsara Shyamika</a> 🇱🇰</sub>
+  <sub>⭐ Star my repos if you find them useful - it means a lot! | From <a href="https://github.com/nethsarashyamika">Nethsara Shyamika</a> 🇱🇰</sub>
 </div>

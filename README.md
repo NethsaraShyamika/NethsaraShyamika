@@ -76,23 +76,15 @@ const nethsara = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nethsarashyamika&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nethsarashyamika&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-</div>
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=nethsarashyamika&theme=dark" />
-  </a>
+  <img src="https://streak-stats.vercel.app/?user=nethsarashyamika&theme=dark" />
 </div>
 
 ---
 
 ## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nethsarashyamika&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true"/>
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nethsarashyamika&theme=monokai" width="100%">
+
 
 ---
 
